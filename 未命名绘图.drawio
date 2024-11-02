@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.2">
   <diagram name="第 1 页" id="RvcXjm-Nj4UyGAPZbjTR">
-    <mxGraphModel dx="3171" dy="2440" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3180" dy="2489" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,8 +29,8 @@
         <mxCell id="c6foWVuKoWLp02Q5EuhB-58" value="&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;background-color: rgb(226, 241, 218);&quot;&gt;Q： A trivia team had 7 members total, but during a game 2 members didn&#39;t show up. If each member that did show up scored 4 points, how many points were scored total? &lt;/span&gt; &lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;span style=&quot;background-color: rgb(253, 202, 201);&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;#Answer this question by implementing a solver function.def solver(): #Let&#39;s write a Python program step by step, and then return the answer #Firstly,we need define the following variable: &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 23px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingTop=9;container=0;" vertex="1" parent="1">
           <mxGeometry x="1166" y="399" width="1047.5" height="194" as="geometry" />
         </mxCell>
-        <mxCell id="c6foWVuKoWLp02Q5EuhB-158" value="&lt;font color=&quot;#3333ff&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Zero Shot CoT&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="-639" width="235" height="30" as="geometry" />
+        <mxCell id="c6foWVuKoWLp02Q5EuhB-158" value="&lt;font color=&quot;#3333ff&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Chain-of-Thought Prompt Optimization&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1447.75" y="-641" width="484" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c6foWVuKoWLp02Q5EuhB-219" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;...&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="1602" y="-119" width="60" height="30" as="geometry" />
@@ -43,8 +43,8 @@
         <mxCell id="c6foWVuKoWLp02Q5EuhB-6" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="343.97" y="-523" width="627" height="253" as="geometry" />
         </mxCell>
-        <mxCell id="c6foWVuKoWLp02Q5EuhB-152" value="&lt;font color=&quot;#3333ff&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Reasoning Step Weighting&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
-          <mxGeometry x="447.22" y="-566" width="305.5" height="22" as="geometry" />
+        <mxCell id="c6foWVuKoWLp02Q5EuhB-152" value="&lt;font color=&quot;#3333ff&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Readability Analysis&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="447.22" y="-566" width="382.78" height="22" as="geometry" />
         </mxCell>
         <mxCell id="c6foWVuKoWLp02Q5EuhB-1" value="&lt;font style=&quot;font-size: 24px; background-color: rgb(226, 241, 218);&quot;&gt;Q：The school cafeteria had 23 apples. If they used 20 to make ...&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;align=left;container=0;" vertex="1" parent="1">
           <mxGeometry x="363.97" y="-505" width="523" height="78" as="geometry" />
@@ -58,16 +58,16 @@
         <mxCell id="c6foWVuKoWLp02Q5EuhB-67" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c6foWVuKoWLp02Q5EuhB-9" target="c6foWVuKoWLp02Q5EuhB-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c6foWVuKoWLp02Q5EuhB-182" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;W&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+        <mxCell id="c6foWVuKoWLp02Q5EuhB-182" value="&lt;font style=&quot;&quot;&gt;&lt;sub style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;R1&lt;/span&gt;&lt;/sub&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="888.97" y="-475" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c6foWVuKoWLp02Q5EuhB-189" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;W&lt;sub style=&quot;&quot;&gt;n&lt;/sub&gt;&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+        <mxCell id="c6foWVuKoWLp02Q5EuhB-189" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;sub style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;Rn&lt;/span&gt;&lt;/sub&gt;&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="893.97" y="-349" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c6foWVuKoWLp02Q5EuhB-204" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;container=0;" vertex="1" parent="1">
           <mxGeometry x="298.5" y="-24" width="678" height="894" as="geometry" />
         </mxCell>
-        <mxCell id="c6foWVuKoWLp02Q5EuhB-157" value="&lt;font color=&quot;#3333ff&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Semantic-Weighted Clustering&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+        <mxCell id="c6foWVuKoWLp02Q5EuhB-157" value="&lt;font color=&quot;#3333ff&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Feature Clustering&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="433.69033232628396" y="-9.038961038961034" width="384.06344410876136" height="29.92207792207792" as="geometry" />
         </mxCell>
         <mxCell id="c6foWVuKoWLp02Q5EuhB-176" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;LLM&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;strokeWidth=2;container=0;" vertex="1" parent="1">
