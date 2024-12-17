@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="RvcXjm-Nj4UyGAPZbjTR">
-    <mxGraphModel dx="4070" dy="3217" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="1525" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,6 +180,12 @@
         </mxCell>
         <mxCell id="c6foWVuKoWLp02Q5EuhB-30" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="c6foWVuKoWLp02Q5EuhB-266" vertex="1">
           <mxGeometry x="80.91429003021142" y="92.93184415584415" width="28.565610389610388" height="28.565610389610388" as="geometry" />
+        </mxCell>
+        <mxCell id="U7XjsWgLTpNfJLUAVSaI-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=7;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="609.46" y="1178" width="95" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="U7XjsWgLTpNfJLUAVSaI-2" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="951" y="1209" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
